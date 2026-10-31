@@ -16,7 +16,6 @@ PhishGuard is a web-based project that predicts whether a website URL may be phi
 - Pandas and NumPy
 - HTML, CSS and JavaScript
 - Joblib
-- Jupyter Notebook
 
 ## Machine Learning Model
 The project uses a Random Forest Classifier trained on URL-based features, including URL length, IP address usage, URL shortening services, and subdomain information.
